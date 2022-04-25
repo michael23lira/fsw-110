@@ -1,2 +1,2 @@
-var greeting = document.getElementById("How's it going?")
-console.log(greeting)
+let element = document.getElementById(`idName`)
+element.innerHTML += `How's it going?`;
