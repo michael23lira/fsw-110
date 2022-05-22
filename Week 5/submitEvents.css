@@ -1,0 +1,16 @@
+form{
+    text-align: center;
+    margin: 5%;
+    border: 2px solid burlywood;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 15px;
+    display: inline;
+}
+
+ul{
+    list-style: none;
+}
+
+li{
+    margin-bottom: 10px;
+}
